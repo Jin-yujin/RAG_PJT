@@ -1,0 +1,23 @@
+[
+  {
+    "item_id": "app-signing",
+    "url": "https://developer.android.com/studio/publish/app-signing?hl=ko",
+    "status": "ok",
+    "cached": false,
+    "characters": 16485
+  },
+  {
+    "item_id": "architecture",
+    "url": "https://developer.android.com/topic/architecture?hl=ko",
+    "status": "ok",
+    "cached": false,
+    "characters": 8301
+  },
+  {
+    "item_id": "compose-state",
+    "url": "https://developer.android.com/develop/ui/compose/state?hl=ko",
+    "status": "ok",
+    "cached": false,
+    "characters": 9912
+  }
+]

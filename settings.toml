@@ -1,0 +1,9 @@
+# 청크 크기는 토큰 수가 아니라 글자 수입니다.
+chunk_size = 900
+chunk_overlap = 150
+top_k = 4
+# cosine 거리: 작을수록 가까움. 이 값은 정답 확률이 아니며 실제 질문으로 조정하세요.
+max_distance = 0.85
+request_interval = 1.5
+request_timeout = 30
+max_selected_documents = 3

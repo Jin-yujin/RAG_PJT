@@ -1,0 +1,14 @@
+{
+  "python_files_parse": 14,
+  "metadata_count": 112,
+  "unique_ids": 112,
+  "unique_urls": 112,
+  "raw_document_count": 3,
+  "raw_json_valid": true,
+  "source_sha256": "f97e132c7edbd61cd3f32bfccc753a1b4c8098525efbe7d453067bb661eefdf2",
+  "python": "3.12.14",
+  "platform": "Linux",
+  "source_files_unchanged": true,
+  "markdown_links_valid": true,
+  "raw_source_license_fields_present": true
+}

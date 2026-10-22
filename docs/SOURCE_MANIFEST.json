@@ -1,0 +1,72 @@
+[
+  {
+    "path": "app.py",
+    "sha256": "30edeecf9d02fc54d8bc35561d730d5a9994b0a8ebb6021ebc4e94bbd4ca36af",
+    "same_as_original": true
+  },
+  {
+    "path": "mentor/__init__.py",
+    "sha256": "9a132d646c4c68a68f3aa90f0a3f76976e8f41b28dabeb00af7630140df43c20",
+    "same_as_original": true
+  },
+  {
+    "path": "mentor/collector.py",
+    "sha256": "0095c1494a5636274d8f8add58f1499e3652060a703378c028d2590bf788db3d",
+    "same_as_original": true
+  },
+  {
+    "path": "mentor/config.py",
+    "sha256": "9abc150cb7e71843f04b672f62d87482f64eaf42944b045b1b599827580efd6e",
+    "same_as_original": true
+  },
+  {
+    "path": "mentor/llm.py",
+    "sha256": "cc2ca36682b726ce8fefef1a705e458b04fb2203cb79437751a16fc9a586b58a",
+    "same_as_original": true
+  },
+  {
+    "path": "mentor/models.py",
+    "sha256": "d1a49f6482d1068c8c2b5e413870185ed3df17aabdca574d2145abd2f6ac93cb",
+    "same_as_original": true
+  },
+  {
+    "path": "mentor/pipeline.py",
+    "sha256": "681766b481647524468d99637832795eefd8a904959f0b58a35d8a91d96fde6e",
+    "same_as_original": true
+  },
+  {
+    "path": "mentor/service.py",
+    "sha256": "4c7e2b6b1b87b80310a53bea6173f199b7ebe717c31e6fa91897eaeebefaa39a",
+    "same_as_original": true
+  },
+  {
+    "path": "mentor/store.py",
+    "sha256": "63ea3646fe2d4cb1f865f01e608372345a6a37ad9fdb3199257c202589b3ea53",
+    "same_as_original": true
+  },
+  {
+    "path": "scripts/build_catalog.py",
+    "sha256": "0e4f1e9521fd16e0728438721d2eec17fbac9b36e31a02c82d168b475c10edc9",
+    "same_as_original": true
+  },
+  {
+    "path": "scripts/check_setup.py",
+    "sha256": "3755400f5de1a81b644afdb4b29ac20ac70a45ba9f3f792ee048dbaf50ae9f5f",
+    "same_as_original": true
+  },
+  {
+    "path": "scripts/collect_docs.py",
+    "sha256": "d630027104fa01b830e91ce79e3339c24a374bedc4b2538eb4ee58fa9bdd369e",
+    "same_as_original": true
+  },
+  {
+    "path": "scripts/index_data.py",
+    "sha256": "abde7b422cd49c33059207b1a0e221bdc8cfabcea868f1ca241430b8bbb755c6",
+    "same_as_original": true
+  },
+  {
+    "path": "tests/test_core.py",
+    "sha256": "feb3b85f92cc5daabe675011717efa9bfa40ed430144829b2c975c09df61ccb5",
+    "same_as_original": true
+  }
+]
